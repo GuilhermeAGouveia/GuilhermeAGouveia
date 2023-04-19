@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://pt.stackoverflow.com/users/194582/guilearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="194582" height="30" width="40" /></a>
+<a href="http://lattes.cnpq.br/7657002723830385" target="_blank"> <img align="center" src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb.png" alt="CNPq" height="40" width="85" /> </a>
+<a href="https://www.linkedin.com/in/guilherme-gouveia-74b503225/" target="_blank"> <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" height="40" width="85" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
